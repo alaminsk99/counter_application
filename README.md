@@ -12,10 +12,13 @@ I created the project for Interview.
 
 ## Demo
 
-
-<img src="assets/images/1..png"  height="1030" width="1920" alt="Counter Application Image1" />
-<img src="assets/images/2.png"  height="1030" width="1920" alt="Counter Application Image2" />
-<img src="assets/images/3.png" height="1030" width="1920" alt="Counter Application Image3" />
-<img src="assets/images/4.png" height="1030" width="1920" alt="Counter Application Image4" />
+ - SignIn Screen
+<img src="assets/images/1..png"  height="103" width="192" alt="Counter Application Image1" />
+ - Rest Password Screen
+<img src="assets/images/2.png"  height="103" width="192" alt="Counter Application Image2" />
+ - SignUp Screen
+<img src="assets/images/3.png" height="103" width="192" alt="Counter Application Image3" />
+ - Home Screen
+<img src="assets/images/4.png" height="103" width="192" alt="Counter Application Image4" />
 
 
