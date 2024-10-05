@@ -1,16 +1,20 @@
-# counter_application
+# Counter application
 
-A new Flutter project.
+I created the project for Interview.
 
-## Getting Started
+## What I learned from here:
 
-This project is a starting point for a Flutter application.
+  - 
 
-A few resources to get you started if this is your first Flutter project:
+## Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="assets/images/1..png"  height="1030" alt="Counter Application Image1" />
+<img src="assets/images/2.png"  height="1030" alt="Counter Application Image2" />
+<img src="assets/images/3.png" height="1030" alt="Counter Application Image3" />
+<img src="assets/images/4.png" height="1030" alt="Counter Application Image4" />
+
+
+## Live 
+
+-  Link: [Click here](https://counteraplication.web.app/),
