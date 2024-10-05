@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "631267357526",
+    "project_id": "counteraplication",
+    "storage_bucket": "counteraplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631267357526:android:72524cef4f84028a619cf7",
+        "android_client_info": {
+          "package_name": "com.example.counter_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT6cNDtEccZbWGyy0mX4Wx74VYWFDHrVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
