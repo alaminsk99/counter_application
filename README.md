@@ -19,7 +19,6 @@ I created the project for Interview.
  - SignUp Screen
 <img src="assets/images/3.png" height="309" width="576" alt="Counter Application Image3" />
  - Home Screen
-
 <img src="assets/images/4.png" height="309" width="576" alt="Counter Application Image4" />
 
 
